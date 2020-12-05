@@ -1,5 +1,3 @@
-# slide-template Demo
-
 Themes in this demo:
 
 * [LFE Dark Theme](https://lfe.io/slide-template/dark)
